@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supermarket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+            color: green;
+        }
+        h2 {
+            color: darkblue;
+            border-bottom: 2px solid black;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            font-size: 18px;
+        }
+        p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Our Supermarket</h1>
+
+    <h2>Fruits & Vegetables</h2>
+    <ul>
+        <li>Apples - $2/kg</li>
+        <li>Bananas - $1.50/kg</li>
+        <li>Tomatoes - $2.50/kg</li>
+        <li>Carrots - $2/kg</li>
+        <li>Potatoes - $1/kg</li>
+    </ul>
+
+    <h2>Dairy & Bakery</h2>
+    <ul>
+        <li>Milk - $1/liter</li>
+        <li>Cheese - $5/pack</li>
+        <li>Bread - $1.50</li>
+        <li>Butter - $3</li>
+        <li>Eggs - $3/dozen</li>
+    </ul>
+
+    <h2>Snacks & Beverages</h2>
+    <ul>
+        <li>Chips - $2/pack</li>
+        <li>Chocolate - $1.50/bar</li>
+        <li>Soft Drinks - $2/bottle</li>
+        <li>Juice - $3/liter</li>
+        <li>Cookies - $2/pack</li>
+    </ul>
+
+    <h2>Contact Us</h2>
+    <p>Email: contact@supermarket.com</p>
+    <p>Phone: +123 456 7890</p>
+
+</body>
+</html>
