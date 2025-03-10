@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Devika Santhosh - Resume</title>
+</head>
+<body>
+
+    <h1>Devika Santhosh</h1>
+    <a href="mailto:">devikasanthosh3131@gmail.com</a>  
+<a href="https://github.com/Devika601" target="_blank">GitHub</a>  
+<a href="https://www.linkedin.com/in/devika_santhosh" target="_blank">LinkedIn</a>
+    <hr>
+	<h2>PROFESSIONAL SUMMARY</H2>
+	<p>BCA student with a keen interest in technology,programming,and problem solving.Quick learner with a creative mindset and a strong ability to adapt to new challenges. Passionate about exploring innovative solutions and collaborating in dynamic environments. Looking for opportunities to apply and enhance technical skills while gaining practical experience.</p>
+<hr>
+
+    <h2>Education</h2>
+    <p>B.C.A. in Computer Applications | Expected Graduation: [2027]</p>
+	<p>Higher secondary education :computer science at Government higher secondary school,konni</p> 
+    <hr>
+
+    <h2>Skills & Technologies</h2>
+    <ul>
+        <li>Programming:(basic) Python, C++,c, SQL</li>
+        <li>Web Development:(basic) HTML, CSS</li>
+    </ul>
+    <hr>
+	<h2>Hobbies and activites</h2>
+	
+	<ul>
+	<li>Listening Music</li>
+	</ul>
+</body>
+</html>
